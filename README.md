@@ -1,6 +1,6 @@
 # Form-Login
 
-##Tela de Login simples utilizando HTML e CSS
+##Tela de Login minimalista utilizando HTML e CSS
 
 ### Vetor do icone de login feito por mim no Illustrator :)
 
